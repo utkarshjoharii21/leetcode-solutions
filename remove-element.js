@@ -1,7 +1,3 @@
-// Problem: Remove Element
-// Platform: LeetCode
-// Link: https://leetcode.com/problems/remove-element/
-// Difficulty: Easy
 var removeElement = function(nums,val) {
     let k = 0;
 
