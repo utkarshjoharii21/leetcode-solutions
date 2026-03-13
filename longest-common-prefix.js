@@ -1,3 +1,7 @@
+// Problem: Longest Common Prefix
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/longest-common-prefix/
+// Difficulty: Easy
 var longestCommonPrefix = function(strs) {
     let pref = strs[0];
     let prefLen = pref.length;
