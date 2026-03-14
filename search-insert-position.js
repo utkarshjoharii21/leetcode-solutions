@@ -1,3 +1,7 @@
+// Problem: Search Insert Position
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/search-insert-position/
+// Difficulty: Easy
 var searchInsert = function(nums, target) {
     let start = 0;
     let end = nums.length;
