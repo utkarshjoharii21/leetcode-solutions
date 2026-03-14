@@ -1,3 +1,7 @@
+// Problem: Push One
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/push-one/
+// Difficulty: Easy
 var plusOne = function(digits) {
     for(let i = digits.length - 1; i >= 0; i--) {
         if(digits[i] + 1 !== 10) {
