@@ -1,3 +1,7 @@
+// Problem: Merge Strings Alternately
+// Platform: LeetCode
+// Link: https://leetcode.com/problems/merge-strings-alternately/
+// Difficulty: Easy
 var mergeStrings = function(word1, word2) {
     let result = '';
     for(let i = 0; i < Math.max(word1.length, word2.length); i++) {
